@@ -45,11 +45,11 @@ ln -fs /snap/bin/certbot /usr/bin/certbot
 
 Antes de nada habrá que tener creado un archivo **.env** donde estarán definidas las variables que se usaran para automatizar el proceso de obtención del certificado. (habrá que llamarlas mediante el **source .env**)
 
-![](/Practica-01-05/scripts/imagenes/variables.png)
+![](images/variables.png)
 
 Su contenido interno será **2 variables**, una para el **correo** y otra par el **nombre de dominio**:
 
-![](/Practica-01-05/scripts/imagenes/variables2.png)
+![](images/variables2.png)
 
 Seguidamente se puede empezar con la **obtención automatizada** del **certificado**.
 
