@@ -53,7 +53,7 @@ Su contenido interno será **2 variables**, una para el **correo** y otra par el
 
 Seguidamente se puede empezar con la **obtención automatizada** del **certificado**.
 
-1. El **parametro clave** para **automatizar** estas respuestas es `--non-interactive` ya que hace que no se solicite **ningun dato** por **teclado**.
+1. El **parametro clave** para **automatizar** estas respuestas es `--non-interactive` ya que hace que no se solicite **ningún dato** por **teclado**.
 
 ```
 certbot --apache -m $TU_CORREO --agree-tos --no-eff-email -d $TU_DOMINIO --non-interactive
