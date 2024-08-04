@@ -1,8 +1,6 @@
-# Practica-01-05
-
 ### HTTPS con Let’s Encrypt y Certbot
 
-Para est practica, contrario a la anterior, se va a estar haciendo uso de una **autoridad de certificación** (no autofirmado) la autoruidad de donde lo sacaremos será de **Let’s Encrypt**, usando el cliente de **Certbot**. La finalidad de la práctica es realziar la configuracón de un certificado **SSL/TLS** para poder navegar por **HTTPS**.
+Para esta practica, contrario a la anterior, se va a estar haciendo uso de una **autoridad de certificación** (no autofirmado) la autoruidad de donde lo sacaremos será de **Let’s Encrypt**, usando el cliente de **Certbot**. La finalidad de la práctica es realziar la configuracón de un certificado **SSL/TLS** para poder navegar por **HTTPS**.
 
 ## 1. Instalación previa de la pila
 Para la realización de esta práctica habrá que realizar la instalación de la pila **LAMP** en otro script, pero dado a que es el mismo procedimento dado en prácticas anteriores omitire la documentación de los pasos. 
